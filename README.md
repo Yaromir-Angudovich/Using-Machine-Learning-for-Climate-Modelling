@@ -1,5 +1,8 @@
 # Using-Machine-Learning-for-Climate-Modelling
 Application of 2 Neural Networks to a Slow-Fast Chaotic Dynamical System as a 3 Case Study
+    
+    Authors: Sergei Soldatenko, Yaromir Angudovich
+    Arctic and Antarctic Research Institute, St Petersburg 199397, Russia; sergei.soldatenko@symparico.ca 
 
 This repositorie explores the capabilities of two types of recurrent neural networks, unidirectional and bidirectional long short-term memory networks, for building a surrogate model for a coupled fast-slow dynamic system and predicting its nonlinear chaotic behaviour. The dynamical system in question, comprising two versions of the classical Lorenz model with a small time-scale separation factor, is treated as an atmosphere – ocean research simulator.
 
