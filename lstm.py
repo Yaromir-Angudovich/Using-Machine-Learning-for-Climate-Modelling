@@ -1,14 +1,13 @@
-# Загрузка необходимых библиотек
-import scipy.io  # Библиотека для загрузки файла
-import numpy as np  # Для работы с массивами
-from keras.models import Sequential  # Для создания модели
+import scipy.io  
+import numpy as np 
+from keras.models import Sequential 
 import matplotlib.font_manager as font_manager
-import pandas as pd  # Для работы с датафреймами
+import pandas as pd
 from matplotlib import pyplot as plt
-from matplotlib import pylab  # Для отрисовки графиков
-from sklearn.preprocessing import MinMaxScaler  # Для масштабирования данных
+from matplotlib import pylab 
+from sklearn.preprocessing import MinMaxScaler
 from keras.layers import Dense, Dropout, LSTM, Bidirectional, BatchNormalization, \
-    SimpleRNN  # Загрузка слоев для нейронной модели
+    SimpleRNN
 from scipy.signal import savgol_filter
 from matplotlib.ticker import FormatStrFormatter
 
