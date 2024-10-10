@@ -10,9 +10,11 @@ This repositorie explores the capabilities of two types of recurrent neural netw
 testdata.mat - Calculation of the Lorenz’63 model. Lowercase letters x, y, and z for the fast subsystem variables and uppercase letters X, Y, and Z for the slow subsystem variables
 
 weightsLSTM_50_128_3_LSTM.weights.h5 - Stored model weights after machine learning. 3 hidden LSTM layers of 128 units were used. Forecast lead time 0.5 MTU
+
 weightsLSTM_50_128_3_BiLSTM.weights.h5 - 3 hidden LSTM layers and one BiLSTM.  128 units. Forecast lead time 0.5 MTU.
 
 history_50_128_3_LSTM.xlsx - Stored Loss Function results for LSTM model (Learning and Validation)
+
 history_50_128_3_BiLSTM.xlsx - Stored Loss Function results for BiLSTM model (Learning and Validation)
 
 
