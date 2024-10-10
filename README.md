@@ -1,5 +1,5 @@
 # Using-Machine-Learning-for-Climate-Modelling
-Application of 2 Neural Networks to a Slow-Fast Chaotic Dynamical System as a 3 Case Study
+Application of Neural Networks to a Slow-Fast Chaotic Dynamical System as a Case Study
     
     Authors: Sergei Soldatenko, Yaromir Angudovich
     Arctic and Antarctic Research Institute, St Petersburg 199397, Russia; sergei.soldatenko@symparico.ca 
